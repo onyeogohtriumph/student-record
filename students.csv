@@ -1,0 +1,201 @@
+Student_ID,Full_Name,Gender,Department,Level,Attendance_Percentage,Average_Exam_Score
+STU0001,Chinedu Afolabi,Male,Electrical Engineering,500,76.6,73.6
+STU0002,Chukwuma Abubakar,Male,Accounting,500,83.7,72.9
+STU0003,Daniel Nwosu,Male,Biochemistry,200,73.7,54.1
+STU0004,Folake Balogun,Female,Mechanical Engineering,400,78.5,68.2
+STU0005,Blessing Bello,Female,Electrical Engineering,100,82.8,84.9
+STU0006,Aisha Eze,Female,Computer Science,400,88.2,66.0
+STU0007,Femi Adeyemi,Male,Mass Communication,500,54.8,50.0
+STU0008,Yusuf Adeyemi,Male,Economics,100,87.0,75.8
+STU0009,Ayodele Adeyemi,Male,Mass Communication,200,67.6,68.6
+STU0010,Zainab Nwosu,Female,Electrical Engineering,500,68.3,52.1
+STU0011,Daniel Afolabi,Male,Economics,500,78.5,78.0
+STU0012,Kelechi Eze,Male,Accounting,100,90.4,64.7
+STU0013,Temitope Balogun,Female,Mass Communication,200,100,89.1
+STU0014,Temitope Chukwu,Female,Accounting,500,68.1,64.5
+STU0015,Grace Lawal,Female,Mass Communication,200,62.5,64.1
+STU0016,Daniel Ogunleye,Male,Electrical Engineering,200,81.4,72.2
+STU0017,David Chukwu,Male,Biochemistry,500,73.8,67.6
+STU0018,Fatima Balogun,Female,Computer Science,100,100,79.1
+STU0019,Bukola Chukwu,Female,Mechanical Engineering,400,72.2,70.9
+STU0020,Yusuf Afolabi,Male,Mechanical Engineering,500,76.7,77.4
+STU0021,Ayodele Chukwu,Male,Accounting,200,72.4,76.3
+STU0022,Bukola Bello,Female,Computer Science,500,56.1,52.3
+STU0023,Amaka Okafor,Female,Economics,200,87.4,79.4
+STU0024,Ibrahim Lawal,Male,Law,100,83.2,70.8
+STU0025,Emeka Chukwu,Male,Economics,500,61.8,60.6
+STU0026,Chiamaka Okonkwo,Female,Economics,400,78.7,57.0
+STU0027,Amaka Okonkwo,Female,Electrical Engineering,300,68.6,65.0
+STU0028,Chukwuma Okonkwo,Male,Electrical Engineering,100,79.1,75.1
+STU0029,Tunde Okafor,Male,Accounting,300,81.2,68.4
+STU0030,Chiamaka Okonkwo,Female,Law,200,98.5,94.9
+STU0031,Bukola Abubakar,Female,Biochemistry,300,80.1,73.4
+STU0032,Temitope Ogunleye,Female,Electrical Engineering,100,80.8,68.5
+STU0033,Grace Eze,Female,Accounting,200,80.0,66.3
+STU0034,Funke Abubakar,Female,Electrical Engineering,400,83.9,80.5
+STU0035,Chinedu Chukwu,Male,Electrical Engineering,200,100,81.9
+STU0036,Femi Ogunleye,Male,Computer Science,200,52.2,55.2
+STU0037,Ngozi Abubakar,Female,Law,300,75.8,81.4
+STU0038,Grace Afolabi,Female,Law,200,94.6,78.5
+STU0039,Segun Nwosu,Male,Computer Science,300,94.8,76.8
+STU0040,Chinedu Lawal,Male,Mechanical Engineering,100,49.1,54.1
+STU0041,Ayodele Bello,Male,Accounting,400,82.4,72.7
+STU0042,Chukwuma Nwosu,Male,Electrical Engineering,400,74.7,65.7
+STU0043,Blessing Nwosu,Female,Economics,400,72.5,59.4
+STU0044,Kelechi Chukwu,Male,Electrical Engineering,100,74.5,73.3
+STU0045,Folake Lawal,Female,Accounting,500,83.1,71.8
+STU0046,Funke Eze,Female,Mass Communication,300,97.6,69.4
+STU0047,Musa Ibe,Male,Computer Science,500,67.4,60.6
+STU0048,Ifeoma Adeyemi,Female,Electrical Engineering,100,84.5,71.1
+STU0049,Segun Balogun,Male,Accounting,300,61.7,51.2
+STU0050,Blessing Ibe,Female,Economics,100,95.5,82.9
+STU0051,Obinna Danjuma,Male,Mechanical Engineering,400,100,98.4
+STU0052,Fatima Okafor,Female,Mechanical Engineering,500,100,94.5
+STU0053,Ayodele Eze,Male,Mechanical Engineering,100,71.6,62.7
+STU0054,Zainab Danjuma,Female,Mass Communication,200,81.7,70.6
+STU0055,Kelechi Adeyemi,Male,Biochemistry,500,67.9,70.9
+STU0056,Ibrahim Ibe,Male,Mechanical Engineering,400,90.2,88.4
+STU0057,Emeka Afolabi,Male,Biochemistry,200,98.2,74.5
+STU0058,Funke Danjuma,Female,Computer Science,400,74.2,59.0
+STU0059,Ibrahim Ibe,Male,Accounting,200,88.5,71.5
+STU0060,Kelechi Nwosu,Male,Electrical Engineering,300,69.6,67.6
+STU0061,Ifeoma Okonkwo,Female,Mass Communication,100,48.4,64.3
+STU0062,Segun Bello,Male,Computer Science,100,45.4,38.1
+STU0063,Zainab Afolabi,Female,Electrical Engineering,400,81.2,62.4
+STU0064,Segun Okafor,Male,Accounting,300,77.8,68.2
+STU0065,Aisha Chukwu,Female,Electrical Engineering,300,94.0,73.1
+STU0066,Ifeoma Abubakar,Female,Mechanical Engineering,200,68.7,74.2
+STU0067,Ifeoma Abubakar,Female,Economics,400,65.6,45.9
+STU0068,Segun Balogun,Male,Mass Communication,400,83.6,85.8
+STU0069,Amaka Chukwu,Female,Mechanical Engineering,100,81.3,79.6
+STU0070,Fatima Chukwu,Female,Accounting,300,70.1,58.7
+STU0071,David Nwosu,Male,Law,500,80.4,72.2
+STU0072,Musa Abubakar,Male,Biochemistry,400,90.8,69.6
+STU0073,Chiamaka Bello,Female,Electrical Engineering,400,77.2,67.6
+STU0074,Emeka Danjuma,Male,Computer Science,500,93.2,75.4
+STU0075,Ayodele Adeyemi,Male,Mass Communication,400,55.5,59.2
+STU0076,Halima Okonkwo,Female,Law,400,70.8,66.1
+STU0077,Bukola Nwosu,Female,Law,200,83.6,66.7
+STU0078,Amaka Adeyemi,Female,Mass Communication,300,75.8,61.8
+STU0079,Emeka Bello,Male,Accounting,100,80.3,82.4
+STU0080,Temitope Eze,Female,Accounting,400,65.0,58.8
+STU0081,Bukola Lawal,Female,Biochemistry,400,80.4,69.7
+STU0082,Obinna Balogun,Male,Biochemistry,500,78.6,53.5
+STU0083,Musa Nwosu,Male,Biochemistry,300,75.8,76.6
+STU0084,Grace Bello,Female,Computer Science,400,93.7,63.1
+STU0085,Tunde Chukwu,Male,Mechanical Engineering,100,54.5,61.7
+STU0086,Temitope Eze,Female,Biochemistry,300,80.8,77.4
+STU0087,Blessing Ibe,Female,Computer Science,300,80.2,70.9
+STU0088,Kelechi Adeyemi,Male,Computer Science,200,81.7,59.6
+STU0089,Ayodele Okafor,Male,Law,100,71.1,60.6
+STU0090,Musa Afolabi,Male,Electrical Engineering,200,77.5,76.2
+STU0091,Aisha Lawal,Female,Biochemistry,400,89.1,76.6
+STU0092,Tunde Lawal,Male,Electrical Engineering,300,71.3,54.3
+STU0093,David Lawal,Male,Biochemistry,300,80.4,63.0
+STU0094,Daniel Chukwu,Male,Law,100,64.3,73.7
+STU0095,Zainab Chukwu,Female,Mechanical Engineering,400,89.2,69.9
+STU0096,Yusuf Okonkwo,Male,Law,400,88.1,73.5
+STU0097,Halima Afolabi,Female,Accounting,100,68.4,59.2
+STU0098,Amaka Nwosu,Female,Biochemistry,300,78.1,58.5
+STU0099,Musa Ibe,Male,Mass Communication,300,71.2,73.0
+STU0100,Blessing Lawal,Female,Computer Science,500,74.8,60.7
+STU0101,Tunde Nwosu,Male,Accounting,400,75.2,58.0
+STU0102,Amaka Danjuma,Female,Biochemistry,200,88.8,76.0
+STU0103,Ifeoma Lawal,Female,Mass Communication,400,66.8,69.5
+STU0104,Zainab Afolabi,Female,Accounting,100,67.3,64.3
+STU0105,Obinna Adeyemi,Male,Mechanical Engineering,200,76.6,48.3
+STU0106,Yusuf Ogunleye,Male,Economics,100,75.1,77.6
+STU0107,Segun Nwosu,Male,Mechanical Engineering,300,70.9,69.7
+STU0108,Chinedu Okonkwo,Male,Law,100,69.8,82.4
+STU0109,Chukwuma Balogun,Male,Mechanical Engineering,100,64.2,62.2
+STU0110,Halima Ogunleye,Female,Law,100,81.6,72.9
+STU0111,Emeka Bello,Male,Electrical Engineering,200,89.9,57.8
+STU0112,Daniel Danjuma,Male,Accounting,500,62.9,65.2
+STU0113,Amaka Ogunleye,Female,Biochemistry,300,72.9,75.9
+STU0114,Chukwuma Afolabi,Male,Accounting,300,95.9,87.5
+STU0115,Emeka Nwosu,Male,Computer Science,400,80.4,73.0
+STU0116,Grace Lawal,Female,Economics,300,74.7,67.2
+STU0117,Aisha Chukwu,Female,Accounting,400,79.1,75.7
+STU0118,Daniel Nwosu,Male,Mechanical Engineering,100,61.0,44.6
+STU0119,Emeka Danjuma,Male,Economics,400,70.3,76.6
+STU0120,Musa Afolabi,Male,Economics,500,73.6,73.8
+STU0121,Amaka Adeyemi,Female,Mass Communication,500,55.7,45.7
+STU0122,Ngozi Adeyemi,Female,Computer Science,300,80.6,82.2
+STU0123,David Danjuma,Male,Law,300,85.1,81.7
+STU0124,Chukwuma Abubakar,Male,Electrical Engineering,400,68.0,55.8
+STU0125,Temitope Eze,Female,Mechanical Engineering,300,75.4,70.6
+STU0126,Grace Ogunleye,Female,Computer Science,400,70.5,83.0
+STU0127,Obinna Balogun,Male,Biochemistry,500,62.7,78.6
+STU0128,Kelechi Ibe,Male,Accounting,500,65.1,58.9
+STU0129,Folake Danjuma,Female,Computer Science,200,64.0,60.5
+STU0130,Fatima Bello,Female,Law,100,90.5,72.5
+STU0131,Kelechi Lawal,Male,Economics,500,84.2,60.5
+STU0132,Daniel Abubakar,Male,Electrical Engineering,400,100,95.8
+STU0133,Kelechi Ibe,Male,Economics,500,95.1,94.4
+STU0134,Temitope Ibe,Female,Law,500,63.4,61.0
+STU0135,Femi Nwosu,Male,Mechanical Engineering,100,91.7,72.5
+STU0136,Bukola Danjuma,Female,Economics,100,85.2,67.3
+STU0137,Grace Balogun,Female,Law,200,86.9,65.2
+STU0138,Fatima Ogunleye,Female,Biochemistry,400,68.7,71.6
+STU0139,Halima Nwosu,Female,Biochemistry,200,87.5,73.8
+STU0140,Ngozi Eze,Female,Biochemistry,400,77.3,55.9
+STU0141,Musa Okafor,Male,Mass Communication,100,100,96.8
+STU0142,Aisha Okonkwo,Female,Mechanical Engineering,400,79.9,69.2
+STU0143,Tunde Ogunleye,Male,Biochemistry,100,80.0,63.8
+STU0144,Halima Chukwu,Female,Mass Communication,400,86.1,67.6
+STU0145,Chukwuma Adeyemi,Male,Economics,200,79.9,82.0
+STU0146,Femi Adeyemi,Male,Electrical Engineering,400,79.3,57.1
+STU0147,Yusuf Balogun,Male,Computer Science,300,81.3,69.4
+STU0148,Zainab Abubakar,Female,Mechanical Engineering,200,87.8,82.5
+STU0149,Tunde Lawal,Male,Accounting,400,90.4,68.2
+STU0150,Ibrahim Ogunleye,Male,Computer Science,400,68.7,56.5
+STU0151,Ifeoma Okonkwo,Female,Mass Communication,500,85.7,80.7
+STU0152,Ifeoma Abubakar,Female,Economics,200,72.7,57.4
+STU0153,Halima Ogunleye,Female,Mass Communication,500,88.0,79.7
+STU0154,Grace Balogun,Female,Biochemistry,300,100,84.1
+STU0155,Chukwuma Ibe,Male,Computer Science,500,69.6,51.6
+STU0156,Halima Balogun,Female,Mass Communication,200,79.5,64.0
+STU0157,Chukwuma Balogun,Male,Mechanical Engineering,100,68.9,51.9
+STU0158,Segun Danjuma,Male,Mechanical Engineering,100,62.1,63.1
+STU0159,Zainab Afolabi,Female,Mass Communication,500,70.5,67.0
+STU0160,Halima Bello,Female,Law,300,76.9,83.1
+STU0161,Bukola Adeyemi,Female,Accounting,400,73.0,66.4
+STU0162,Aisha Danjuma,Female,Electrical Engineering,400,70.0,67.9
+STU0163,Ifeoma Afolabi,Female,Mass Communication,100,69.9,54.6
+STU0164,Musa Okafor,Male,Mass Communication,500,55.2,42.0
+STU0165,Kelechi Adeyemi,Male,Economics,400,68.4,56.3
+STU0166,Emeka Okafor,Male,Law,100,88.5,72.8
+STU0167,Ibrahim Okonkwo,Male,Biochemistry,500,87.4,81.1
+STU0168,Femi Chukwu,Male,Biochemistry,300,90.2,81.5
+STU0169,Yusuf Eze,Male,Accounting,300,80.9,79.0
+STU0170,Kelechi Eze,Male,Mass Communication,100,43.5,42.0
+STU0171,Blessing Nwosu,Female,Law,100,100,78.1
+STU0172,Kelechi Chukwu,Male,Mass Communication,200,75.8,66.5
+STU0173,David Lawal,Male,Accounting,500,84.8,87.3
+STU0174,Ayodele Ibe,Male,Computer Science,300,80.4,84.0
+STU0175,Emeka Okonkwo,Male,Computer Science,200,78.0,73.8
+STU0176,Obinna Danjuma,Male,Computer Science,200,82.1,60.9
+STU0177,Ngozi Bello,Female,Electrical Engineering,400,77.2,58.6
+STU0178,Bukola Eze,Female,Accounting,500,71.8,64.8
+STU0179,Yusuf Danjuma,Male,Economics,400,94.0,72.0
+STU0180,Chinedu Ogunleye,Male,Electrical Engineering,400,85.9,66.6
+STU0181,Aisha Adeyemi,Female,Mechanical Engineering,300,74.8,71.0
+STU0182,Temitope Lawal,Female,Biochemistry,100,64.0,58.7
+STU0183,Ayodele Chukwu,Male,Accounting,400,65.0,49.9
+STU0184,Chiamaka Abubakar,Female,Biochemistry,100,70.4,71.7
+STU0185,Temitope Eze,Female,Mechanical Engineering,400,71.6,58.3
+STU0186,Tunde Ibe,Male,Mass Communication,200,89.9,80.3
+STU0187,Chukwuma Okonkwo,Male,Biochemistry,300,60.1,53.6
+STU0188,Halima Afolabi,Female,Economics,300,88.2,77.0
+STU0189,Chukwuma Okonkwo,Male,Accounting,100,82.4,82.8
+STU0190,Halima Okonkwo,Female,Accounting,400,63.2,70.0
+STU0191,Chukwuma Chukwu,Male,Mechanical Engineering,300,82.9,66.2
+STU0192,Zainab Eze,Female,Biochemistry,100,100,82.6
+STU0193,Yusuf Chukwu,Male,Accounting,400,83.6,71.5
+STU0194,Amaka Eze,Female,Mass Communication,500,84.2,78.3
+STU0195,Chinedu Bello,Male,Electrical Engineering,300,87.9,84.0
+STU0196,Ifeoma Abubakar,Female,Economics,200,64.0,61.2
+STU0197,Obinna Abubakar,Male,Law,500,93.0,85.5
+STU0198,Ngozi Nwosu,Female,Computer Science,200,64.1,67.1
+STU0199,Chiamaka Danjuma,Female,Mass Communication,100,84.5,77.4
+STU0200,Musa Afolabi,Male,Accounting,500,71.8,66.9
